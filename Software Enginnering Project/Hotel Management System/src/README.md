@@ -69,6 +69,10 @@ These tables collectively store user credentials, staff details, room data, cust
 
 ---
 
+## Documention of project
+
+Check the project documention [here](https://drive.google.com/drive/folders/1zG3v9xf8BJXW7C-wjFem9eh69Qb4tyFc?usp=sharing)
+
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/d9cf1d0e-641d-4712-9792-2b95f5b464b9)
 ![image](https://github.com/user-attachments/assets/ed6e0c96-0e70-451a-94e1-71683b3972db)

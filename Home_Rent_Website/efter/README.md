@@ -1,4 +1,4 @@
-# 🏡 Home Rent — Django Web Application
+# 🏡 Home Rent — Web Application
 
 Home Rent is a Django-based web application designed to simplify the process of finding rental homes. It connects renters with landlords and offers a user-friendly platform for posting, browsing, and managing rental listings.
 
